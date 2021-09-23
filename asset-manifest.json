@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rdux-cart/static/css/main.6ec948be.chunk.css",
+    "main.js": "/rdux-cart/static/js/main.02d99e7c.chunk.js",
+    "main.js.map": "/rdux-cart/static/js/main.02d99e7c.chunk.js.map",
+    "runtime-main.js": "/rdux-cart/static/js/runtime-main.7cf67f48.js",
+    "runtime-main.js.map": "/rdux-cart/static/js/runtime-main.7cf67f48.js.map",
+    "static/js/2.1eebd580.chunk.js": "/rdux-cart/static/js/2.1eebd580.chunk.js",
+    "static/js/2.1eebd580.chunk.js.map": "/rdux-cart/static/js/2.1eebd580.chunk.js.map",
+    "index.html": "/rdux-cart/index.html",
+    "static/css/main.6ec948be.chunk.css.map": "/rdux-cart/static/css/main.6ec948be.chunk.css.map",
+    "static/js/2.1eebd580.chunk.js.LICENSE.txt": "/rdux-cart/static/js/2.1eebd580.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf67f48.js",
+    "static/js/2.1eebd580.chunk.js",
+    "static/css/main.6ec948be.chunk.css",
+    "static/js/main.02d99e7c.chunk.js"
+  ]
+}
